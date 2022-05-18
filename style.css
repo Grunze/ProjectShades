@@ -44,14 +44,59 @@
 }
 
 #gg {
-  width: 90%;
+  width: 100%;
   color: #000000;
   text-align: center;
+  line-height: 1.5;
 }
 
 .container {
   width: 90%;
   color: #000000;
   position: relative;
+  text-align: center;
+  line-height: 1.5;
+}
+
+#weekly-deals {
+  height: 400px;
+  padding: 1em;
+  text-align: center;
+  background-image: url(images/710564836ceea6d58b89aba3e0ab4d56--wooden-frames-old-mans.jpg);
+}
+
+#men {
+  background-color: rgb(33, 119, 109);
+  padding: 1em;
+  text-align: center;
+}
+
+#women {
+  background-color: rgb(194, 96, 96);
+  padding: 1em;
+  text-align: center;
+}
+
+#kids {
+  background-color: rgb(70, 154, 193);
+  padding: 1em;
+  text-align: center;
+}
+
+#career {
+  background-color: rgb(135, 38, 157);
+  padding: 1em;
+  text-align: center;
+}
+
+#about {
+  background-color: rgb(210, 66, 93);
+  padding: 1em;
+  text-align: center;
+}
+
+#tips {
+  background-color: rgb(161, 117, 159);
+  padding: 1em;
   text-align: center;
 }
